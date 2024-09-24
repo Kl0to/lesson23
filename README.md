@@ -112,7 +112,8 @@
 
 4-Соединить полусумматоры последовательно
 
-5-![image](https://github.com/user-attachments/assets/5827a9fc-ee8a-41c0-93c5-e1d38e38856f)
+5-![image](https://github.com/user-attachments/assets/2f14b07a-60ef-4037-98c7-69411d134eae)
+
 
 
 6-
