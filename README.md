@@ -123,16 +123,23 @@ B ----/
 7-Перенос-перенос в следу ющий разряд. Перенос используется в многоразрядных сумматорах для выполнения сложения n-разрядных слагаемых А и В.
 
 
-1-
+1-![image](https://github.com/user-attachments/assets/436d089f-1909-4904-a9d0-0c6cd22b49c2)
 
-2-
 
-3-
+2-![image](https://github.com/user-attachments/assets/21e0cf18-fe8d-4060-a056-cf451272be1a)
 
-4-
 
-5-
+3-![image](https://github.com/user-attachments/assets/20c964a1-3836-497b-a396-48197fbbac27)
 
-6-
 
-7-
+4-![image](https://github.com/user-attachments/assets/d7fa1d1b-1209-41ed-adc6-d05216e48282)
+
+
+5-![image](https://github.com/user-attachments/assets/421351d1-1cac-4140-afc4-fc448cc8a466)
+
+
+6-![image](https://github.com/user-attachments/assets/40ad8c3b-517b-4853-ad62-0be54c069f94)
+
+
+7-![image](https://github.com/user-attachments/assets/ffaa3ccb-b68a-41d6-8d4e-df30cda00054)
+
